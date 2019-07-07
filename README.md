@@ -8,4 +8,4 @@ https://blackrockdigital.github.io/startbootstrap-creative/
 https://bootstrapmade.com/demo/themes/Alstar/ 
 <i>Dərsdə işlədiyimiz yuxarıda <b>07.06.2019-Css</b> folderindədir.
   
-. Xoş həftəsonu. Uğurlar.
+Xoş həftəsonu. Uğurlar.
