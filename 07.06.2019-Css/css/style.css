@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: 'SF-Pro-Display',Roboto,Sans-Serif;
+}
+.logo{
+    width: 50px;
+   
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    position: fixed;
+    width: 100%;
+}
+.menuIcons i{
+ margin-right:15px;
+ font-size: 25px;
+ color:#fff;
+}
+.col-left{
+    background-image: url(https://d3f86pfw66amx.cloudfront.net/uncode/wp-content/uploads/2015/09/joe-robles-602630-unsplash-crop-min-uai-2064x2064.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+ 
+    width: 60%;
+}
+.col-right{
+    width: 50%;
+    height: 950px;
+}
+.topSlide{
+    background: url(https://d3f86pfw66amx.cloudfront.net/uncode/wp-content/uploads/2015/09/fachry-zella-devandra-472638-unsplash-min.jpg);
+    height: 475px;
+    background-size: cover;
+    background-position: center;
+
+}
+.bottomSlide{
+    height: 475px;
+    background: url(https://d3f86pfw66amx.cloudfront.net/uncode/wp-content/uploads/2017/03/custom-demo-image-product-tshirt-4.jpg);
+    background-size: cover;
+    background-position:  center center;
+
+}
+.collection{
+    display: flex;
+}
+.col-left .left-item{
+    padding: 17rem 10rem;
+    font-weight: 900 !important;
+    color:white
+}   
+.col-left .left-item h1{
+    font-size: 4.5rem;
+    margin:40px 0;
+}
+.col-left .left-item span{
+    font-size: 2rem;
+    
+}
+.col-left .left-item input{
+    padding: 15px 25px;
+    font-size: 18px;
+    color:#fff;
+    background: #6442ff!important;
+    border:1px solid #6442ff!important;
+    cursor: pointer;
+}
+.col-left .left-item input:hover{
+    background: transparent !important
+}
